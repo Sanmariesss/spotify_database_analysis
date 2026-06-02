@@ -1,6 +1,6 @@
 # Spotify Music Database Design & Analysis
 
-**Course:** Databases & Big Data — Luiss Guido Carli (2023/24)
+**Course:** Databases & Big Data — Luiss Guido Carli (2024/25)
 **Team:** Sabina Nurseitova, Ziyi Dong, Ceyla Kaya, Assima Amangeldina
 **Type:** Database Design & ETL Pipeline | Team Project
 
